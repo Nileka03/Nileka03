@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 
 🎓 Data Science undergraduate at SLIIT  
-💻 Exploring AI, machine learning, and data analytics  
-🌱 Continuously learning and building cool projects 
+💻 Exploring AI, machine learning, and data analytics   
 
 ![Nileka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nileka03&show_icons=true&theme=radical)
 -->
