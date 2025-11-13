@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ![Nileka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nileka03&show_icons=true&theme=radical)
 -->
 # 💫 Hi, I'm Nileka!!!
-🎓 Data Science undergraduate at SLIIT<br>💻 Exploring AI, machine learning, and data analytics<br>🌱 Continuously learning and building cool projects
+🎓 Data Science undergraduate at SLIIT<br>💻 Exploring AI, machine learning, and data analytics<br>
 
 
 ## 🌐 Socials:
